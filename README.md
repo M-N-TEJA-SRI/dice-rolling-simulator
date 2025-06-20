@@ -1,0 +1,1 @@
+Just a simple way to understand how random function works and how it can be modified to get desired indices which is used in rock paper scissors or get some value in the range of 1-6 so mod operator is used .
